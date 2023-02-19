@@ -12,6 +12,6 @@ I used 'WSL(Ubuntu 20.04 LTS)', the Intranet web-term, Git and GitHub.
 - [x] 6. Never push too much
 
 ## Author:
-@terrymk99
+[Terrence](https://github.com/terrymk99)
 
 
