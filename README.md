@@ -1,7 +1,3 @@
-# 0x03. Git
+# ALX 0-Day
 
-## Tasks:
-
-* 0. Create and setup your Git and GitHub account
-    * Step 0 - Create an account on GitHub [if you do not have one already]
-    * Step 1 - Create a Personal Access Token on Github
+I'm now an ALX Student, this is my first repository as a full-stack engineer. I edited this to revise the project.
