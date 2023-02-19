@@ -7,7 +7,7 @@ I used 'WSL(Ubuntu 20.04 LTS)', the Intranet web-term, Git and GitHub.
 
 - 1. Repo-session 
 
-- 2. Coding fury road
+- 2.Coding fury road
 
 - 3. Collaboration is the base of a company
 
